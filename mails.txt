@@ -1,0 +1,2 @@
+user1@yahoo.com
+user2@gmail.com
